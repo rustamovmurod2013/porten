@@ -1,0 +1,339 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+}
+
+header{
+    background-color: #0F0F0F;
+}
+
+.child1{
+    display: flex;
+    gap: 40px;
+}
+
+.father1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 15px;
+}
+
+.father1 h1{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.father1 ul{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.father1 ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+}
+
+#hero1{
+    background-image: url(./images/Rectangle\ 3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.father2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 80px;
+    padding: 155px;
+}
+
+.father3{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.father2 p{
+    max-width: 730px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+}
+
+#hero5{
+    background-color: #000000;
+}
+
+.child4{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.child4 h1{
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+}
+
+.child4 hr{
+    color: white;
+    max-width: 120px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.child2{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.child2 h1{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.child3{
+    display: flex;
+    gap: 50px;
+}
+
+.child3 h1{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.child3 p{
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+#hero6{
+    background-color: #000000;
+}
+
+.container1{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1600px;
+}
+
+.father4{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child5{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 40px;
+    color: white;
+    padding: 50px;
+}
+
+.child5 h1{
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.child9{
+    display: flex;
+    justify-content: center;
+}
+
+.child5 hr{
+    max-width: 120px;
+    width: 100%;
+}
+
+.child5 p{
+    font-size: 14px;
+    font-weight: 400;
+    max-width: 471px;
+    width: 100%;
+}
+
+.child5 button{
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    padding: 12px 28px;
+}
+
+#hero2{
+    background-color: #000000;
+}
+
+.father5{
+    padding: 120px;
+}
+
+.child6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.child6 h1{
+    font-size: 36px;
+    font-weight: 700;
+    color: white;
+}
+
+.child6 hr{
+    max-width: 120px;
+    width: 100%;
+    color: white;
+    margin-bottom: 81px;
+}
+
+.child2{
+    color: white;
+}
+
+.child7{
+    display: flex;
+    gap: 23px;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+#hero3{
+    background-color: #0F0F0F;
+}
+
+.father6{
+    padding: 60px;
+}
+
+.child8{
+    display: flex;
+    gap: 30px;
+}
+
+#hero4{
+    background-color: black;
+}
+
+.father7{
+    display: flex;
+    justify-content: space-between;
+    padding: 17px;
+    align-items: center;
+}
+
+.father7 h1{
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+}
+
+.father7 a{
+    font-size: 12px;
+    font-weight: 700;
+    color: white;
+}
+
+.sub-father{
+    display: flex;
+    flex-direction: column;
+}
+
+.ch-img{
+    width: 260px;
+    height: 325px;
+    background-color: #191B1C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero7{
+    background-image: url(./images/Rectangle\ 15.png);
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.child10{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.child10 h1{
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.child10 p{
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    max-width: 350px;
+}
+
+.child13{
+    margin-bottom: 40px;
+}
+
+.child11 h1{
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.child12{
+    display: flex;
+    gap: 20px;
+}
+
+.child14 h1{
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.child14 p{
+    max-width: 350px;
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 37px;
+}
+
+.child15 input{
+    padding: 10px;
+}
+
+.child15 button{
+    color: white;
+    background-color: black;
+    border: 0px solid black;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 10px;
+}
