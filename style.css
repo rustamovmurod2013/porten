@@ -110,7 +110,8 @@ header{
 
 .child3{
     display: flex;
-    gap: 50px;
+    gap: 20px;
+    padding: 20px;
 }
 
 .child3 h1{
@@ -147,7 +148,7 @@ header{
     text-align: center;
     gap: 40px;
     color: white;
-    padding: 50px;
+    padding: 100px;
 }
 
 .child5 h1{
@@ -184,7 +185,7 @@ header{
 }
 
 .father5{
-    padding: 120px;
+    padding: 45px;
 }
 
 .child6{
